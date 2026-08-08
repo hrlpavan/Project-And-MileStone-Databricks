@@ -1,1 +1,1 @@
-# Project-And-MileStone-Databricks
+# Project And MileStone Databricks
